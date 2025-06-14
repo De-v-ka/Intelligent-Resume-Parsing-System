@@ -1,6 +1,6 @@
 # Intelligent Resume Parsing System with SBERT & TF-IDF
 
-![System Architecture](system_architecture.png) <!-- Add your diagram if available -->
+
 
 ## Overview
 An AI-powered resume parsing system that:
